@@ -1,0 +1,9 @@
+body {
+    background: hsl(45, 100%, 50%);
+    font-family: 'Quicksand', 'Arial', sans-serif;
+    color: hsl(240, 100%, 60%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
